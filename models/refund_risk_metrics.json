@@ -1,0 +1,11 @@
+{
+  "model": "refund_risk",
+  "version": "0.1.0",
+  "dataset_size": 10000,
+  "positive_rate": 0.0282,
+  "validation_auc": 0.6121211153852293,
+  "test_auc": 0.6034685479129924,
+  "test_precision": 0.0,
+  "test_recall": 0.0,
+  "test_f1": 0.0
+}
